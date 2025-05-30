@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashikant</h1>
+<h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">A Passionate Web Developer and Programmer from India</h3>
 
 - 🌱 I’m currently learning **Blockchain**
