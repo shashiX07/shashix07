@@ -160,11 +160,3 @@
 </div>
 
 ###
-
-<h2 align="left">Commit Eater :</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/shashix07/shashix07/output/snake.svg" alt="Snake animation" />
-
-###
