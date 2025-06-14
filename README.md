@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashikant</h1>
 <h3 align="center">A Passionate Web Developer and programmer from India</h3>
-# 💫 About Me:
 🌱 I’m currently learning Blockchain<br>👨‍💻 All of my projects are available at https://github.com/shashix07<br>📫 How to reach me shashi007.iitkgp@gmail.com<br>⚡ Fun fact I think I am Funny
 
 
