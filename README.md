@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Shashikant</h1>
+<h1 align="center"> Hi 👋, I'm Shashikant</h1>
 
 ###
 
-<h3 align="center">A passionate web developer and programmer from india</h3>
+<h3 align="center">🚀 A passionate web developer and programmer from India 🇮🇳</h3>
 
 ###
 
-<h2 align="left">About Me :</h2>
+<h2 align="left">👨‍💻 About Me :</h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning Blockchain<br>⚡ Fun fact I think I am Funny<br>📫 How to reach me shashi007.iitkgp@gmail.com</p>
+<p align="left">🌱 I'm currently learning Blockchain<br>😄 Fun fact I think I am Funny<br>📫 How to reach me shashi007.iitkgp@gmail.com</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Social :</h2>
+<h2 align="left">🌐 Social :</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Tech Stack :</h2>
+<h2 align="left">🛠️ Tech Stack :</h2>
 
 ###
 
@@ -149,7 +149,7 @@
 
 ###
 
-<h2 align="left">Github Stats :</h2>
+<h2 align="left">📊 Github Stats :</h2>
 
 ###
 
@@ -160,3 +160,5 @@
 </div>
 
 ###
+
+<h2 align="center">⚡ Thanks for visiting! ⚡</h2>
