@@ -6,7 +6,6 @@
 
 ###
 <h2 align="left">👨‍💻 About Me : </h2>
-###
 
 <p align="left">🌱 I'm currently learning Blockchain<br>😄 Fun fact I think I am Funny<br>📫 How to reach me shashi007.iitkgp@gmail.com</p>
 
