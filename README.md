@@ -5,9 +5,7 @@
 <h3 align="center">🚀 A passionate web developer and programmer from India 🇮🇳</h3>
 
 ###
-
-<h2 align="left">👨‍💻 About Me :</h2>
-
+<h2 align="left">👨‍💻 About Me : </h2>
 ###
 
 <p align="left">🌱 I'm currently learning Blockchain<br>😄 Fun fact I think I am Funny<br>📫 How to reach me shashi007.iitkgp@gmail.com</p>
@@ -31,7 +29,9 @@
   <a href="https://x.com/Shashiikant007_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/shashii.kant07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
   <a href="https://www.facebook.com/profile.php?id=61565998181553" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
